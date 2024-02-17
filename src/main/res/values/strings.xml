@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForestBank</string>
+    <string name="giris">Login</string>
+    <string name="nmbr">Enter Identity Number</string>
+    <string name="nmbr2">Enter Password</string>
+    <string name="pass">Forget Password</string>
+</resources>
